@@ -8,7 +8,6 @@ The "Find a Suitable Vehicle" application allows you to view vehicles in the dat
 
 
 
-<img width="610" alt="Ekran Resmi 2023-07-05 13 18 19" src="https://github.com/CanDasdemir7/CTIS-221--JAVA-PROJECT/assets/136342934/de4d0f57-fb9b-4dca-84e5-c87bb8cb6ca7">
 <img width="537" alt="Ekran Resmi 2023-07-05 13 20 49" src="https://github.com/CanDasdemir7/CTIS-221--JAVA-PROJECT/assets/136342934/29e08450-145d-46cc-9f4e-80d624344d8b">
 <img width="452" alt="Ekran Resmi 2023-07-05 13 20 16" src="https://github.com/CanDasdemir7/CTIS-221--JAVA-PROJECT/assets/136342934/6fd4349a-ead5-466b-ad90-2f1568dfe095">
 <img width="558" alt="Ekran Resmi 2023-07-05 13 19 59" src="https://github.com/CanDasdemir7/CTIS-221--JAVA-PROJECT/assets/136342934/bf2adb2b-a7a0-47f1-8fe9-89e47432c29c">
